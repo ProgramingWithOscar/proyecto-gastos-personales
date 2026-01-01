@@ -1,0 +1,7 @@
+{
+  "name": "FinanzaPro - Senior Financial Architect Edition",
+  "description": "A comprehensive personal finance platform for tracking, analyzing, and optimizing your financial health with AI-driven insights and professional-grade visualizations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
